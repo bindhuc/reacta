@@ -18,7 +18,7 @@ function clickchange(){
    {
   
   show  ?  <div className='bigbox2'> <h1 >This is created using class component</h1>
-     <p style={{ fontSize:"20px"}}>This is done using inexternal css</p> 
+     <p style={{ fontSize:"20px"}}>This is done using external css</p> 
      <p style={{color: "red", fontSize:"20px"}}>This is done using inline css</p> </div> 
     : null
   

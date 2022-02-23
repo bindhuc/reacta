@@ -6,13 +6,9 @@ const Functionclick = () => {
 
   const [show, setShow] = useState(true)
 
-  
-
-
   function clickchangefun(){
     setShow(!show);
   }
-  
   
     return (
   
